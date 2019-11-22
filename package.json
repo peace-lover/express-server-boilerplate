@@ -1,5 +1,5 @@
 {
-  "name": "cp-abe-app",
+  "name": "express-boiler-plate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "start": "nodemon --exec babel-node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["express","server"],
+  "author": "noushad_mohamed",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.7.2",
